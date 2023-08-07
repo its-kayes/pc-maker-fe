@@ -133,7 +133,6 @@ const Header: React.FC = () => {
                   linkCls,
                   "bg-primary-700 py-1.5 px-5 rounded-md"
                 )}
-                onClick={() => router.push(pcBuildUrl)}
               >
                 PC Builder
               </button>
