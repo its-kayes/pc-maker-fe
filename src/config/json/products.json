@@ -1,0 +1,860 @@
+[
+    {
+        "image": "/products/product-1.webp",
+        "name": "Intel 13th Gen Raptor Lake Core i9 13900K 3.00GHz-5.80GHz LGA1700 Socket Processor",
+        "category": "CPU / Processor",
+        "categorySlug": "processor",
+        "status": "In Stock",
+        "price": 72000.99,
+        "description": "Brand - Intel, Model - Intel Core i9 13900K, Processor Category - Core i9, Cpu Cooler (Included) - Not Included, Code-Name - Raptor Lake, Generation - 13th, Base Frequency - 3.00GHz, Turbo Frequency Max. - 5.80GHz, Core - 24, Threads - 32, Smart Cache - 36MB, L2 Cache - 32MB, Lithography - Intel 7, Memory Max. - 128MB, Memory Type - DDR4-3200, DDR5-5600, Memory Channels - 2, ECC Memory Supported - Yes, Processor Graphics - Intel UHD Graphics 770, Graphics Base Frequency - 300 MHz, Graphics Dynamic Frequency Max. - 1.65 GHz, Graphics Resolution Max. - 7680 x 4320, DirectX Support - 12, OpenGL Support - 4.5, Sockets Supported - LGA1700, Others - Processor Base Power: 125W, Maximum Turbo Power: 253W, Graphics Output: eDP 1.4b, DP 1.4a, HDMI 2.1. OpenCL Support: 3.0, Multi-Format Codec Engines: 2, Specialty - Intel Quick Sync Video, Intel Clear Video HD Technology, Direct Media Interface (DMI) Revision 4.0, PCI Express Revision 5.0 and 4.0, Intel Gaussian & Neural Accelerator 3.0, Intel Thread Director, Intel Deep Learning Boost (Intel DL Boost), Intel Speed Shift Technology, Intel Thermal Velocity Boost, Intel Turbo Boost Technology 2.0, Compatible Products - Chipsets: Intel Z790, Intel Q670, Intel W680, Intel H610, Intel H670, Intel B660, Intel Z690, Warranty - 3 Year (No Warranty for Fan or Cooler), Country of Origin - USA",
+        "keyFeatures": {
+            "brand": "Intel",
+            "model": "Intel Core i9 13900K",
+            "specification": "Intel Quick Sync Video, Intel Clear Video HD Technology, Direct Media Interface (DMI) Revision 4.0, PCI Express Revision 5.0 and 4.0, Intel Gaussian & Neural Accelerator 3.0, Intel Thread Director, Intel Deep Learning Boost (Intel DL Boost), Intel Speed Shift Technology, Intel Thermal Velocity Boost, Intel Turbo Boost Technology 2.0",
+            "port": "n/a",
+            "type": "DDR4-3200, DDR5-5600",
+            "resolution": "7680 x 43200",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.5,
+        "averageRating": 4.2,
+        "reviews": [
+            {
+                "user": "HappyCustomer56",
+                "rating": 4,
+                "comment": "I've been using this product for a month now, and it's still working flawlessly. Highly recommended!"
+            },
+            {
+                "user": "TechGeek99",
+                "rating": 5,
+                "comment": "The sleek design and high-quality materials make this product stand out from the rest."
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-2.png",
+        "name": "Gigabyte GA-H81M-DS2 4th Gen Intel Motherboar",
+        "category": "Motherboard",
+        "categorySlug": "motherboard",
+        "status": "Out of Stock",
+        "price": 1500.00,
+        "description": "GIGABYTE 8 Series motherboards support the latest 4th Generation Intel® Core™ processors, bringing together a unique blend of features and technologies that offer the absolute ultimate platform for your next PC build. From high current capable power delivery, performance-enhancing caching technologies, exclusive high-end audio features, advanced networking and device charging, GIGABYTE 8 series motherboards are in a class of their own.",
+        "keyFeatures": {
+            "brand": "Gigabyte",
+            "model": "GA-H81M-DS2",
+            "specification": "4th Gen",
+            "port": "n/a",
+            "type": "DDR4-3200, DDR5-5600",
+            "resolution": "7680 x 43200",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.2,
+        "averageRating": 3.9,
+        "reviews": [
+            {
+                "user": "GamingAddict",
+                "rating": 3,
+                "comment": "The performance of this product is top-notch. I can run all my favorite games without any lag."
+            },
+            {
+                "user": "EcoWarrior",
+                "rating": 4,
+                "comment": "I appreciate the eco-friendly materials used in this product. Every little step counts!"
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-3.webp",
+        "name": "Transcend JetRAM 4GB DDR4",
+        "category": "RAM",
+        "categorySlug": "ram",
+        "status": "In Stock",
+        "price": 4000.99,
+        "description": "brand - Transcend, model - Transcend JetRAM, Capacity - 4GB, type - DDR4, Bus Speed(MHz) - 3200MHz, Number of Pin - 288-Pin, CAS Latency - CL22, voltage - 1.20V, Module type - U-DIMM, LED Lighting - No, Registered/Unbuffered - Unbuffered, Form Factor/PCB Height - 1.23 Inch, Operating Temperature - 0 Degree C to 85 Degree C, Warranty - Product LifeTime",
+        "keyFeatures": {
+            "brand": "Transcend",
+            "model": "JetRAM",
+            "specification": "4GB DDR4",
+            "port": "JM3200HLH-4G",
+            "type": "DDR4",
+            "resolution": "n/a",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.8,
+        "averageRating": 4.7,
+        "reviews": [
+            {
+                "user": "PhotographyEnthusiast",
+                "rating": 5,
+                "comment": "The camera capabilities of this product are outstanding. Capturing memories has never been easier."
+            },
+            {
+                "user": "StarWarsFan42",
+                "rating": 4,
+                "comment": "As a Star Wars fan, this product with themed designs is a dream come true!"
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-4.webp",
+        "name": "Value Top VT-S200A Plus Real 200W PSU",
+        "category": "Power Supply Unit",
+        "categorySlug": "power-supply",
+        "status": "In Stock",
+        "price": 129.99,
+        "description": "brand - Value Top, model - Value-Top VT-S200A Plus, PSU Category - Non Modular, Maximum Power - 200 Watt, Fan Size - 120mm, Over voltage Protection (OVP) - No, Over Power Protection (OPP) - No, Over Current Protection (OCP) - No, Over Temperature Protection (OTP) - No, Short Circuit Protection (SCP) - No, Under voltage Protection (UVP) - No, SATA Power Connectors - 3, Form Factor - ATX, Others - 1 x IDE connector, 1 x 12CM fan with punched grilles, 1 x 1.2m UK power cord, Warranty - 2 Year, Country of Origin - China, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Value Top",
+            "model": "Value Top VT-S200A Plus",
+            "specification": "specification 4",
+            "port": "port 4",
+            "type": "ATX",
+            "resolution": "n/a",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.0,
+        "averageRating": 3.9,
+        "reviews": [
+            {
+                "user": "ArtisticSoul",
+                "rating": 3,
+                "comment": "This product's touch screen and stylus have taken my digital art skills to the next level."
+            },
+            {
+                "user": "JohnDoe87",
+                "rating": 5,
+                "comment": "it's been impressive so far. The design is sleek, and the touch screen is responsive. It syncs effortlessly with my phone and tracks my workouts accurately. The only drawback is that the battery life could be better, but overall, I'm happy with my purchase."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-5.webp",
+        "name": "Adata SU650 120GB 2.5 Inch SATAIII SSD #ASU650SS-120GT-R",
+        "category": "Storage Device",
+        "categorySlug": "storage-device",
+        "status": "In Stock",
+        "price": 79.99,
+        "description": "The Ultimate SU650 solid state drive implements 3D NAND Flash and a high-speed controller, offering capacities up to 1.92TB. It delivers read/write performance up to 520/450MB/s and greater reliability than 2D NAND SSDs. The SU650 features SLC caching and advanced error correction technologies to ensure optimized data performance and integrity. For those who want to experience a clear PC upgrade, the SU650 is an excellent choice with a great cost-performance ratio.",
+        "keyFeatures": {
+            "brand": "Adata",
+            "model": "Adata SU650",
+            "specification": "specification 5",
+            "port": "ASU650SS-120GT-R",
+            "type": "SATAIII SSD",
+            "resolution": "n/a",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.5,
+        "averageRating": 4.6,
+        "reviews": [
+            {
+                "user": "Sarah_89",
+                "rating": 5,
+                "comment": "he sound quality is incredible, and they fit snugly in my ears, even during workouts. The battery life is impressive, and the charging case is compact and easy to carry. I highly recommend these earbuds to anyone looking for an affordable and high-quality audio solution."
+            },
+            {
+                "user": "GadgetMaster55",
+                "rating": 4,
+                "comment": "The build quality is excellent, and the camera captures decent footage. However, I found the controls a bit challenging to master, especially for beginners. The battery life is also relatively short, limiting flying time. It's a decent option for drone enthusiasts with some experience but may not be the best choice for novices."
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-6.webp",
+        "name": "BenQ GW2280 22 inch Eye Care Full HD VA Dual HDMI VGA Monitor",
+        "category": "Monitor",
+        "categorySlug": "monitor",
+        "status": "Out of Stock",
+        "price": 249.99,
+        "description": "Description of Product 6",
+        "keyFeatures": {
+            "brand": "BenQ",
+            "model": "BenQ GW2280",
+            "specification": "specification 6",
+            "port": "No",
+            "type": "VA",
+            "resolution": "resolution 6",
+            "voltage": "0.5 W"
+        },
+        "individualRating": 3.8,
+        "averageRating": 3.7,
+        "reviews": [
+            {
+                "user": "OutdoorExplorer77",
+                "rating": 4,
+                "comment": "it exceeded my expectations. The material is durable and water-resistant, keeping my belongings safe and dry during unexpected rain. The multiple compartments help me stay organized, and the padded straps make it comfortable to carry for extended periods."
+            },
+            {
+                "user": "HomeChef101",
+                "rating": 3,
+                "comment": "The only reason I'm not giving it five stars is that it can be a bit noisy when running at the highest speed. Other than that, it's a solid blender for everyday use."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-7.webp",
+        "name": "Afox GeForce GT 730 2GB GDDR3 Low Profile Graphics Card #AF730-2048D3L2",
+        "category": "GPU",
+        "categorySlug": "gpu",
+        "status": "In Stock",
+        "price": 349.99,
+        "description": "brand - Meetion, model - Meetion MT-M915, Series - Gaming, type - Wired Gaming Mouse, Connectivity - Wired, Interface - USB, Style & Size - Regular Big, 2X Click - No, Click Sound - Yes, Max DPI - 2400 DPI, resolution - 800/1200/1600/2400DPI, Number of Button - 5+1 (scroll wheel), Scrolling Control - Wheel, Wheel - Yes, Tracking type - Optical, Cable Length - 1.5 Meter, Dimensions (WxHxD) - 135 x 73 x 42mm, Weight - 140g, Compatibility - Windows Supported PC & Laptop, OS Support - Windows XP/Vista/7/8/10, Color - Black, Features - Variable Highlight, Ergonomic symmetric design for Right/Left hand, Soft Touch, Two additional navigation buttons (Forward and Backward), resolution DPI Switch, Precision Optical Sensor, Others - Error-free Running Time, Strokes: More than 3, 000, 000, Warranty - 1 Year, Country of Origin - China, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Afox",
+            "model": "Afox GeForce GT 730 2GB",
+            "specification": "specification 7",
+            "port": "No",
+            "type": "GDDR3",
+            "resolution": "2560 x 1600",
+            "voltage": "49W"
+        },
+        "individualRating": 4.7,
+        "averageRating": 4.8,
+        "reviews": [
+            {
+                "user": "FitnessJunkie99",
+                "rating": 5,
+                "comment": "t accurately tracks my steps, heart rate, and sleep patterns. The app is user-friendly and provides insightful data. The battery life is impressive, lasting over a week on a single charge. It's motivating to see my progress and stay on top of my health goals. Highly recommended"
+            },
+            {
+                "user": "GamerPro456",
+                "rating": 4,
+                "comment": "As a serious gamer, the QRS Gaming Mouse is a must-have. The adjustable DPI settings allow for precise control, and the programmable buttons are convenient for customizing macros. The ergonomic design ensures comfort during long gaming sessions. This mouse has significantly improved my gameplay, and I can't imagine going back to a regular mouse now!"
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-8.webp",
+        "name": "Meetion MT-M915 Wired Black Gaming Mouse",
+        "category": "Mouse",
+        "categorySlug": "mouse",
+        "status": "In Stock",
+        "price": 29.99,
+        "description": "brand - Meetion, model - Meetion MT-M915, Series - Gaming, type - Wired Gaming Mouse, Connectivity - Wired, Interface - USB, Style & Size - Regular Big, 2X Click - No, Click Sound - Yes, Max DPI - 2400 DPI, resolution - 800/1200/1600/2400DPI, Number of Button - 5+1 (scroll wheel), Scrolling Control - Wheel, Wheel - Yes, Tracking type - Optical, Cable Length - 1.5 Meter, Dimensions (WxHxD) - 135 x 73 x 42mm, Weight - 140g, Compatibility - Windows Supported PC & Laptop, OS Support - Windows XP/Vista/7/8/10, Color - Black, Features - Variable Highlight, Ergonomic symmetric design for Right/Left hand, Soft Touch, Two additional navigation buttons (Forward and Backward), resolution DPI Switch, Precision Optical Sensor, Others - Error-free Running Time, Strokes: More than 3, 000, 000, Warranty - 1 Year, Country of Origin - China, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Meetion",
+            "model": "Meetion MT-M915",
+            "specification": "Two additional navigation buttons (Forward and Backward), resolution DPI Switch, Precision Optical Sensor",
+            "port": "",
+            "type": "Wired Gaming Mouse",
+            "resolution": "800/1200/1600/2400DPI",
+            "voltage": ""
+        },
+        "individualRating": 4.2,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "FitnessJunkie99",
+                "rating": 5,
+                "comment": "t accurately tracks my steps, heart rate, and sleep patterns. The app is user-friendly and provides insightful data. The battery life is impressive, lasting over a week on a single charge. It's motivating to see my progress and stay on top of my health goals. Highly recommended"
+            },
+            {
+                "user": "GamerPro456",
+                "rating": 4,
+                "comment": "As a serious gamer, the QRS Gaming Mouse is a must-have. The adjustable DPI settings allow for precise control, and the programmable buttons are convenient for customizing macros. The ergonomic design ensures comfort during long gaming sessions. This mouse has significantly improved my gameplay, and I can't imagine going back to a regular mouse now!"
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-9.webp",
+        "name": "Logitech K120 Black USB Keyboard #920-002582",
+        "category": "Keyboard",
+        "categorySlug": "keyboard",
+        "status": "In Stock",
+        "price": 59.99,
+        "description": "Getting things done should be simple. That’s what makes this full-sized keyboard the right fit. It’s a reliable and durable partner equipped with a number pad with an easy-to-use design that works right out of the box. Just plug in this corded keyboard via USB and go.",
+        "keyFeatures": {
+            "brand": "Logitech",
+            "model": "Logitech K120",
+            "specification": "specification 9",
+            "port": "920-002582",
+            "type": "Multimedia Keyboard",
+            "resolution": "",
+            "voltage": ""
+        },
+        "individualRating": 4.5,
+        "averageRating": 4.4,
+        "reviews": [
+            {
+                "user": "ArtisticSoul",
+                "rating": 3,
+                "comment": "This product's touch screen and stylus have taken my digital art skills to the next level."
+            },
+            {
+                "user": "JohnDoe87",
+                "rating": 5,
+                "comment": "it's been impressive so far. The design is sleek, and the touch screen is responsive. It syncs effortlessly with my phone and tracks my workouts accurately. The only drawback is that the battery life could be better, but overall, I'm happy with my purchase."
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-10.webp",
+        "name": "Toshiba 1TB 5400RPM Laptop Hard disk",
+        "category": "Storage Device",
+        "categorySlug": "storage-device",
+        "status": "Out of Stock",
+        "price": 129.99,
+        "description": "Toshiba's MQ04AB Series 5,400 rpm HDDs deliver up to 2TB of data storage capacity in 2.5-inch form factor. It is suitable for ultra-portable laptop and notebook PCs, as well as for use in slim-line “all-in-one” desktop PCs. Other uses include high-end multimedia devices where low-power and mobile-class robustness helps to achieve platform design requirements. The MQ04AB series leverage shock sensors to protect the drive from excessive shock events. The MQ04AB Series' quiet operation makes it an excellent storage solution for laptops, slim-line desktops, and applications where capacity, power-profile, and reliability are critical.",
+        "keyFeatures": {
+            "brand": "Toshiba",
+            "model": "Toshiba MQ04ABF100",
+            "specification": "5,400 rpm performance. 512e Advanced Format Sector Technology. Improved Performance with Native Command Queue (NCQ)",
+            "port": "",
+            "type": "Laptop HDD",
+            "resolution": "resolution 10",
+            "voltage": "1.65 W"
+        },
+        "individualRating": 3.9,
+        "averageRating": 3.6,
+        "reviews": [
+            {
+                "user": "FitnessJunkie99",
+                "rating": 5,
+                "comment": "t accurately tracks my steps, heart rate, and sleep patterns. The app is user-friendly and provides insightful data. The battery life is impressive, lasting over a week on a single charge. It's motivating to see my progress and stay on top of my health goals. Highly recommended"
+            },
+            {
+                "user": "HomeDecorator22",
+                "rating": 4,
+                "comment": "As a serious gamer, the QRS Gaming Mouse is a must-have. The adjustable DPI settings allow for precise control, and the programmable buttons are convenient for customizing macros. The ergonomic design ensures comfort during long gaming sessions. This mouse has significantly improved my gameplay, and I can't imagine going back to a regular mouse now!"
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-11.webp",
+        "name": "HP P19V G4 18.5 Inch HD VGA Monitor",
+        "category": "Monitor",
+        "categorySlug": "monitor",
+        "status": "In Stock",
+        "price": 199.99,
+        "description": "brand - HP, model - HP P19V G4, Series - Regular, Shape - Widescreen, Display Size (Inch) - 18.5 Inch, Display type - HD LED Display, Panel type - TN, Panel Surface - Flat, Borderless - No, Touch Screen - No, Display resolution - 1366 x 768, Aspect Ratio - 16:9, Display Surface - Anti-glare, Maximum Brightness (cd/m2) - 200 nits, Contrast Ratio - 600:1 (static), Refresh Rate (Hz) - 60Hz, Color Support / Display Color - 16.7 million, Response Time (ms) - 5ms, Dot Pitch - 0.3 mm, VGA port - 1, Speaker (Built-in) - No, Power Consumption - 10 W (maximum), 9 W (typical), 0.5 W (standby), Operating Temperature - 5 - 35 degree C, Certifications - MEPS, BIS, BSMI, CB, CCC, CE, CECP, CEL, cTUVus, EAC, ENERGY STAR, E-standby, KC/KCC, NOM, PSB; SEPA, TCO, TUV/GS, TUV-S, VCCI, MEPS, WEEE, ISC, CEC, TGM, Pivot/Rotatable - No, Tilt Adjustment - 5 degree  - 20 degree, VESA Wall Mount Standard - 100 x 100mm, Lock Slot - Yes, Body Color - Black, Weight - 2.45 kg, Dimensions - 441.4 x 50.7 x 277.8mm,",
+        "keyFeatures": {
+            "brand": "HP",
+            "model": "HP P19V G4",
+            "specification": "Tackle your daily task list and save space on your desk with the compact, budget-friendly HP P19v G4 Monitor that adjusts to your comfort needs and delivers HD picture quality. Get rich color and sharp details, See your screen in a whole new light with HP Low Blue Light, which shifts the color spectrum for more comfortable viewing.",
+            "port": "1",
+            "type": "type 11",
+            "resolution": "1366x768",
+            "voltage": "10 W"
+        },
+        "individualRating": 4.6,
+        "averageRating": 4.3,
+        "reviews": [
+            {
+                "user": "MusicLover88",
+                "rating": 5,
+                "comment": "he sound quality is superb, and the noise-canceling feature works like magic, especially during my daily commutes. They are comfortable to wear for extended periods and foldable for easy storage."
+            },
+            {
+                "user": "GardeningEnthusiast",
+                "rating": 4,
+                "comment": "They're sharp and make cutting through branches a breeze. The ergonomic design reduces hand strain, and the safety lock is a great feature."
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-12.webp",
+        "name": "Gigabyte NVIDIA GeForce GT 1030 OC 2GB DDR5 Graphics Card",
+        "category": "GPU",
+        "categorySlug": "gpu",
+        "status": "In Stock",
+        "price": 299.99,
+        "description": "Brand - Gigabyte, Chipset Vendor - NVIDIA GeForce, Series - GTX 1000, Chipset Model - GeForce GT 1030 OC, Model - Gigabyte NVIDIA GeForce GT 1030 OC, CUDA Core / Stream Processors - 384 (CUDA), Engine Clock - Base-1290MHz / Boost-1544MHz (OC), Base-1265MHz / Boost-1518MHz (Gaming), Memory Clock - 6008 MHz, Memory Size - 2GB, Memory Bus - 64-bit, Memory Type - GDDR5, Digital Max Resolution - 4096x2160, DirectX - 12, OpenGL - 4.5, DVI Port - 1, HDMI Port - 1, Displayport - No, Power Consumption - 30 W, Recommended PSU - 300W, Multi Display Capability - Dual Display, Cooling Fan - Single, PCB Form - ATX, Part No - GV-N1030OC-2GI, Warranty - 2 Year (No Warranty For Mining), Country of Origin - Taiwan, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Gigabyte",
+            "model": "Gigabyte NVIDIA GeForce GT 1030 OC",
+            "specification": " Base-1290MHz / Boost-1544MHz (OC), Base-1265MHz / Boost-1518MHz (Gaming)",
+            "port": "VGA Port 1, HDMI port 1",
+            "type": "GDDR5",
+            "resolution": "resolution 12",
+            "voltage": "30W"
+        },
+        "individualRating": 4.7,
+        "averageRating": 4.5,
+        "reviews": [
+            {
+                "user": "ArtisticSoul",
+                "rating": 3,
+                "comment": "This product's touch screen and stylus have taken my digital art skills to the next level."
+            },
+            {
+                "user": "JohnDoe87",
+                "rating": 5,
+                "comment": "it's been impressive so far. The design is sleek, and the touch screen is responsive. It syncs effortlessly with my phone and tracks my workouts accurately. The only drawback is that the battery life could be better, but overall, I'm happy with my purchase."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-13.webp",
+        "name": "Fantech T533 Wired Black Mouse",
+        "category": "Mouse",
+        "categorySlug": "mouse",
+        "status": "In Stock",
+        "price": 39.99,
+        "description": "Brand - Fantech, Model - Fantech T533, Series - Regular, Type - Wired Mouse, Connectivity - Wired, Interface - USB, Style & Size - Ergonomic, Click Sound - Yes, Max DPI - 1200 DPI, Scrolling Control - Wheel, Wheel - Yes, Tracking Type - Optical, Cable Length - 1.8 Meter, Compatibility - Windows, Mac, Linux Supported PC & Laptop, OS Support - Windows 7, 8, XP, Mac, Linux, Color - Black, Specialty - Soft scroll, 3 million clicks, Premium Office Mouse, responsive cursor control, Warranty - 1 Year, Country of Origin - Philippine, Made in/ Assemble - China3",
+        "keyFeatures": {
+            "brand": "Fantech",
+            "model": "Fantech T533",
+            "specification": "1200 DPI",
+            "port": "USB Port",
+            "type": "Wired Mouse",
+            "resolution": "resolution 13",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "MusicLover88",
+                "rating": 5,
+                "comment": "he sound quality is superb, and the noise-canceling feature works like magic, especially during my daily commutes. They are comfortable to wear for extended periods and foldable for easy storage."
+            },
+            {
+                "user": "GardeningEnthusiast",
+                "rating": 4,
+                "comment": "They're sharp and make cutting through branches a breeze. The ergonomic design reduces hand strain, and the safety lock is a great feature."
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-14.webp",
+        "name": "Fantech K-210 USB Wired Multimedia Office Keyboard",
+        "category": "Keyboard",
+        "categorySlug": "keyboard",
+        "status": "Out of Stock",
+        "price": 49.99,
+        "description": "Brand - Fantech, Model - Fantech K-210, Style & Size - Regular Big, Type - Wired Multimedia Office Keyboard, Interface - USB, Language (English) - Yes, Language - English, Language (Bangla) - No, Lighting - No, Fingerprint Sensor - No, Mouse, Touchpad - Keyboard only, Dimensions (WxHxD) - 445 x 155 x 25mm, Weight - 443.4 gm, Cable Length - 1.5 Meter, Compatibility - Windows, Mac Supported PC & Laptop, OS Support - Windows, Mac, Color - Black, Specialty - Ergonomic design, feel comfortable and durable multimedia button convenient and quick, waterproof keyboard, the bottom with a drainage hole, Others - Wired USB 2.0 PC Office Keyboard for PC Apple Mac Laptop, 114 key wired office keyboard, line length 1.5 meters, plug and play, step in place, Application: Desktop, Laptop, Axis Body: Black Switch, Part No - K-210, Warranty - 1 Year, Country of Origin - Philippine, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Fantech",
+            "model": "Fantech K-210",
+            "specification": "Ergonomic design, feel comfortable and durable multimedia button convenient and quick, waterproof keyboard, the bottom with a drainage hole",
+            "port": "USB Port",
+            "type": "Wired Multimedia Office Keyboard",
+            "resolution": "n/a",
+            "voltage": "n/a"
+        },
+        "individualRating": 3.8,
+        "averageRating": 3.7,
+        "reviews": [
+            {
+                "user": "HomeMakerMom",
+                "rating": 3,
+                "comment": "It navigates around furniture and corners well, picking up dust and pet hair effectively. The scheduling feature is convenient"
+            },
+            {
+                "user": "CaffeineAddict555",
+                "rating": 4,
+                "comment": "The machine is easy to use and clean, and the build quality is top-notch."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-15.webp",
+        "name": "G.Skill 4GB DDR4 2400 MHz Desktop RAM",
+        "category": "RAM",
+        "categorySlug": "ram",
+        "status": "In Stock",
+        "price": 109.99,
+        "description": "Brand - G.Skill, Model - G.Skill 4GB, Capacity - 4GB, Type - DDR4, Bus Speed(MHz) - 2400MHz, Number of Pin - 288 Pin, CAS Latency - 17-17-17-39, Voltage - 1.20V, LED Lighting - No, Registered/Unbuffered - Unbuffered, Error Checking - Non-ECC, Color - Black, Others - Multi-Channel Kit Single Channel Kit. Tested Speed (XMP/EXPO) 2400 MT/s. SPD Speed (Default) 2400 MT/s. SPD Voltage (Default) 1.20V., Specialty - Aimed for the best price/performance value, every G.SKILL value memory kit is 100% screened for the maximum quality, while maintaining awesome affordability. It`s the best choice to build a budget performance PC. G.SKILL DDR4 memory is designed for the ultimate experience on the latest DDR4 platform! Whether you are processing large amounts of data or intense gaming, experience smooth system performance with the newest next-generation PC memory technology! All G.SKILL DDR4 memory kits are tested with extensive suite of testing software to ensure maximum performance and stability. G.SKILL DDR4 memory kits are validated for compatibility with most DDR4 platforms under a series of rigorous tests in quad channel memory operations. It`s guaranteed to provide the best-in-class performance, compatibility, and stability with the widest range of motherboards., Part No - F4-2400C17S-4GNT, Warranty - Product LifeTime",
+        "keyFeatures": {
+            "brand": "G.Skill",
+            "model": "G.Skill 4GB",
+            "specification": "Aimed for the best price/performance value, every G.SKILL value memory kit is 100% screened for the maximum quality, while maintaining awesome affordability. It`s the best choice to build a budget performance PC. G.SKILL",
+            "port": "n/a",
+            "type": "DDR4",
+            "resolution": "n/a",
+            "voltage": "1.20V"
+        },
+        "individualRating": 4.6,
+        "averageRating": 4.4,
+        "reviews": [
+            {
+                "user": "Arif",
+                "rating": 3,
+                "comment": "It navigates around furniture and corners well, picking up dust and pet hair effectively. The scheduling feature is convenient"
+            },
+            {
+                "user": "Radit",
+                "rating": 4,
+                "comment": "The machine is easy to use and clean, and the build quality is top-notch."
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-16.webp",
+        "name": "Safeway ML-SW-ATX15 500W Silver Power Supply",
+        "category": "Power Supply Unit",
+        "categorySlug": "power-supply",
+        "status": "In Stock",
+        "price": 89.99,
+        "description": "Brand - Safeway, Model - Safeway ML-SW-ATX15, PSU Category - Non Modular, Maximum Power - 500 Watt, Input Voltage - 200 - 240Vac, Input Frequency Range - 50 - 60Hz, Input Current - 4A, Fan Size - 120mm, Over Voltage Protection (OVP) - Yes, Over Power Protection (OPP) - Yes, Over Current Protection (OCP) - No, Over Temperature Protection (OTP) - No, Short Circuit Protection (SCP) - Yes, Under Voltage Protection (UVP) - No, ATX Main Connectors - 1, EPS Connectors - 1, SATA Power Connectors - 3, Floppy Connectors - 1, Hold Up Time - >16ms at 100% load, Form Factor - ATX, Others - Rise Time: >20ms at full load, nominal line, Over-power Protection: 120% to 160%, Specialty - TRUEPOWER: Built-in Industrial grade protection circulity prevents damage resulting from short circuits, power overloads, and over voltage, Warranty - 1 year, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Safeway",
+            "model": "Safeway ML-SW-ATX15",
+            "specification": "TRUEPOWER: Built-in Industrial grade protection circulity prevents damage resulting from short circuits, power overloads, and over voltage",
+            "port": "n/a",
+            "type": "Non Modular",
+            "resolution": "n/a",
+            "voltage": "500 Watt"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.2,
+        "reviews": [
+            {
+                "user": "Sarah_89",
+                "rating": 5,
+                "comment": "he sound quality is incredible, and they fit snugly in my ears, even during workouts. The battery life is impressive, and the charging case is compact and easy to carry. I highly recommend these earbuds to anyone looking for an affordable and high-quality audio solution."
+            },
+            {
+                "user": "GadgetMaster55",
+                "rating": 4,
+                "comment": "The build quality is excellent, and the camera captures decent footage. However, I found the controls a bit challenging to master, especially for beginners. The battery life is also relatively short, limiting flying time. It's a decent option for drone enthusiasts with some experience but may not be the best choice for novices."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-17.webp",
+        "name": "ASUS GeForce GT 1030 2GB GDDR5 low Profile Graphics Card",
+        "category": "GPU",
+        "categorySlug": "gpu",
+        "status": "Out of Stock",
+        "price": 17000.00,
+        "description": "Brand - ASUS, Chipset Vendor - NVIDIA GeForce, Series - GT 1000, Chipset Model - GeForce GT 1030, Model - ASUS GeForce GT 1030, CUDA Core / Stream Processors - 384 (CUDA), Engine Clock - Base: 1266 MHz (OC Mode), 1228 MHz (Gaming Mode), Boost: 1506 MHz (OC Mode), 1468 MHz (Gaming Mode), Base Engine Clock Speed - 1266 MHz (OC Mode), 1228 MHz (Gaming Mode), Boost Engine Clock Speed - 1506 MHz (OC Mode), 1468 MHz (Gaming Mode), Memory Clock - 6008 MHz, Memory Size - 2GB, Memory Bus - 64-bit, Memory Bandwidth - 48 GB/s, Memory Type - GDDR5, Interface - PCI Express 3.0, Digital Max Resolution - 1920 x 1200, DirectX - 12, OpenGL - 4.5, DVI Port - 1, HDMI Port - 1, Power Consumption - 30W, Recommended PSU - 300W, Multi Display Capability - Triple Display, Card Dimension - 173 x 69 x 40mm, HDCP Support - Yes (2.2), Cooler Type - Passive Heatsink, Supported OS - Windows 10, Specialty - Silent passive cooling means true 0dB, Level up gaming performance by 6X compared to iGPU, Enjoy up to 11X better performance in photo and video editing compared to iGPU, AUTO-EXTREME Technology, GPU Tweak II, low profile, Part No - GT1030-SL-2G-BRK, Warranty - 2 Year Replacement (No Warranty For Mining), Country of Origin - Taiwan, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "ASUS",
+            "model": "ASUS GeForce GT 1030",
+            "specification": "Silent passive cooling means true 0dB, Level up gaming performance by 6X compared to iGPU, Enjoy up to 11X better performance in photo and video editing compared to iGPU, AUTO-EXTREME Technology, GPU Tweak II, low profile",
+            "port": "VGA Port - No, HDMI Port - 1",
+            "type": "GDDR5",
+            "resolution": "1920 x 1200",
+            "voltage": "30W"
+        },
+        "individualRating": 4.9,
+        "averageRating": 4.8,
+        "reviews": [
+            {
+                "user": "Tanvir Malik",
+                "rating": 5,
+                "comment": "The camera capabilities of this product are outstanding. Capturing memories has never been easier."
+            },
+            {
+                "user": "Tamim Hasan",
+                "rating": 4,
+                "comment": "As a Star Wars fan, this product with themed designs is a dream come true!"
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-18.webp",
+        "name": "Western Digital Blue 2TB 3.5 Inch SATA 7200RPM Desktop HDD ",
+        "category": "Storage Device",
+        "categorySlug": "storage-device",
+        "status": "In Stock",
+        "price": 139.99,
+        "description": "Brand - Western Digital, Model - Western Digital Blue 2TB, Type - Desktop HDD, Storage (GB/TB) - 2TB, Form Factor (Inch) - 3.5 Inch, Interface - SATA, RPM - 7200 RPM, Buffer (MB/GB) - 256MB, OS Supported - Windows 10, Windows 8.1, Windows 7 macOS High Sierra, Sierra El Capitan (Note: Compatibility may vary depending on users hardware configuration and operating system. Acronis True Image WD Edition designed to work with Windows systems only), Dimension - 147 x 101.6 x 26.1mm, Specialty - Reliable everyday computing - WD Blue internal hard drives deliver reliability for office and web applications. They are ideal for use as primary drives in desktop PCs and for office applications. With a range of capacities and cache sizes, theres a WD Blue internal hard drive thats just right for you. NoTouch Ramp Load technology - The recording head never touches the disk media, ensuring significantly less wear to the recording head and media as well as better drive protection in transit. Low power consumption - State-of-the-art seeking algorithms and advanced power management features ensure low power consumption. Tested for compatibility - We perform tests on hundreds of systems and a multitude of platforms in our FIT Lab to give our customers confidence that our drives will work in their systems. Upgrading your drive is easy - Seamlessly migrate your current system to your new Western Digital drive using Acronis True Image WD Edition software, available as a free download on the Western Digital Support site. This software enables you to copy all your data to a new drive so you dont have to reinstall your operating system to get all the benefits of a new drive., Part No - WD20EZBX, Warranty - 2 year, Country of Origin - USA, Made in/ Assemble - Thailand/Malaysia",
+        "keyFeatures": {
+            "brand": "Western Digital",
+            "model": "Western Digital Blue 2TB",
+            "specification": "Reliable everyday computing - WD Blue internal hard drives deliver reliability for office and web applications. They are ideal for use as primary drives in desktop PCs and for office applications. With a range of capacities and cache sizes, theres a WD Blue internal hard drive thats just right for you. NoTouch Ramp Load technology",
+            "port": "port 18",
+            "type": "Desktop HDD8",
+            "resolution": "147 x 101.6 x 26.1mm",
+            "voltage": "5.6W"
+        },
+        "individualRating": 4.2,
+        "averageRating": 4.0,
+        "reviews": [
+            {
+                "user": "HappyCustomer56",
+                "rating": 4,
+                "comment": "I've been using this product for a month now, and it's still working flawlessly. Highly recommended!"
+            },
+            {
+                "user": "TechGeek99",
+                "rating": 5,
+                "comment": "The sleek design and high-quality materials make this product stand out from the rest."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-19.webp",
+        "name": "Intel 12th Gen Alder Lake Core i3 12100F Processor",
+        "category": "CPU / Processor",
+        "categorySlug": "processor",
+        "status": "In Stock",
+        "price": 11200.00,
+        "description": "Brand - Intel, Model - Intel Core i3 12100F, Cpu Cooler (Included) - PCG 2020C, Code-Name - Alder Lake, Generation - 12th Gen, Base Frequency - 3.30 GHz, Turbo Frequency Max. - 4.30 GHz, Core - 4, Threads - 8, Smart Cache - 12MB, L2 Cache - 5MB, Lithography - Intel 7, Memory Max. - 128GB, Memory Type - DDR4-3200, DDR5-4800, Memory Channels - 2, Sockets Supported - LGA1700, Others - Processor Base Power: 58W, Maximum Turbo Power: 89W, Max Memory Bandwidth: 76.8 GB/s, Direct Media Interface (DMI) Revision: 4.0, Max of DMI Lanes: 8, PCI Express Revision: 5.0 and 4.0, Specialty - Intel Gaussian & Neural Accelerator 3.0, Intel Deep Learning Boost (Intel DL Boost), Intel Optane Memory Supported, Intel Speed Shift Technology, Intel Turbo Boost Technology 2.0, Intel Hyper-Threading Technology, Intel Virtualization Technology (VT-x), Intel Virtualization Technology for Directed I/O (VT-d), Intel VT-x with Extended Page Tables (EPT), Intel 64,  Idle States, Enhanced Intel SpeedStep Technology, Thermal Monitoring Technologies, Intel Volume Management Device (VMD), Intel AES New Instructions, Secure Key, Intel OS Guard, Execute Disable Bit, Intel Boot Guard, Mode-based Execute Control (MBE), Intel Control-Flow Enforcement Technology, Compatible Products - Chipset: H610, H670, B660, Z690, Warranty - 3 Year (No Warranty for Fan or Cooler), Country of Origin - USA, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Intel",
+            "model": "Intel Core i3 12100F",
+            "specification": "Intel Gaussian & Neural Accelerator 3.0, Intel Deep Learning Boost (Intel DL Boost), Intel Optane Memory Supported, Intel Speed Shift Technology, Intel Turbo Boost Technology 2.0, Intel Hyper-Threading Technology, Intel Virtualization Technology (VT-x), Intel Virtualization Technology for Directed I/O (VT-d), Intel VT-x with Extended Page Tables (EPT), Intel 64, Idle States, Enhanced Intel SpeedStep Technology,",
+            "port": "n/a",
+            "type": "DDR4-3200, DDR5-4800",
+            "resolution": "resolution 19",
+            "voltage": "58W"
+        },
+        "individualRating": 4.7,
+        "averageRating": 4.6,
+        "reviews": [
+            {
+                "user": "Jobair Antor",
+                "rating": 5,
+                "comment": "The capabilities of this product are outstanding. Capturing memories has never been easier."
+            },
+            {
+                "user": "Sawon Saha",
+                "rating": 4,
+                "comment": "As a Star Wars fan, this product with themed designs is a dream come true!"
+            }
+        ],
+        "isFeatured": true
+    },
+    {
+        "image": "/products/product-20.webp",
+        "name": "Asrock H81M-VG4 R4.0 DDR3 4th Gen LGA1150 Socket Motherboard for Server Board",
+        "category": "Motherboard",
+        "categorySlug": "motherboard",
+        "status": "Out of Stock",
+        "price": 7800.00,
+        "description": "Brand - Asrock, Model - Asrock H81M-VG4 R4.0, Chipset Brand - Intel, Chipset - Intel H81, CPU Sockets - LGA1150, Supported CPU - Intel Core i7/ i5/ i3/ Xeon/ Pentium/ Celeron Processors, Generation - 4th, Memory Type - DDR3, Memory MHz - 1600/ 1333/ 1066MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Slot (Additional Info) - Not Specified, Memory Max. - 16GB, Memory Max. (Additional Info) - Not Specified, Optane Memory Support - No, Graphics - Intel HD Graphics, Multi-GPU Support - Not Specified, PCI Express Slot - 1 x PCI Express 2.0 x16 Slot (PCIE2: x16 mode), 1 x PCI Express 2.0 x1 Slot, Storage Interface - 6.0Gb/s, M.2 Slot - No, LAN Chipset - Realtek RTL8111H, LAN Speed (Mbps) - 10/ 100/ 1000Mbps, Audio Chipset - Realtek ALC887/897 Audio Codec, Audio Channel - 7.1-Channel, Video Chipset - Not Specified, Wi-Fi - No, Wi-Fi Technology - No, Bluetooth - No, USB Port - 2 x USB 2.0, 2 x USB 3.2 Gen1, VGA Port - No, DVI Port - No, HDMI Port - No, DisplayPort (DP) - No, IDE Port - No, SATA Port - 2 x SATA, DirectX Support - 11.1, BIOS Type - 32Mb AMI UEFI Legal BIOS, BIOS Model - AMI UEFI Legal BIOS, BIOS Version - ACPI 1.1, SMBIOS 2.3.1, FireWire - No, CrossFire Support - No, Sli Support - No, RaidSupport - No, Thunderbolt - No, TPM Port - 1, COM Port - No, RGB Support - No, RGB Sync - No, RGB Connector - No, Form Factor - Micro ATX, Supported Operating System - Windows 10/ 8.1/ 8.1/ 8/ 7, Special Features - Software: ASRock Disk Health Report, ASRock USB Key, ASRock APP Charger, ASRock XFast LAN, ASRock XFast RAM, ASRock Fast Boot, ASRock Live Update & APP Shop: ASRock Interactive UEFI, ASRock UEFI Guide, ASRock Instant Flash, ASRock Internet Flash, ASRock Crashless BIOS, ASRock UEFI Tech Service, ASRock Easy Driver Installer, Others - Connector: 1 x Chassis Intrusion and Speaker Header, 1 x SPI TPM Header, 1 x CPU Fan Connector (4-pin), 1 x Chassis Fan Connector (4-pin), 1 x 24 pin ATX Power Connector, 1 x 4 pin 12V Power Connector, 1 x Front Panel Audio Connector. Rear Panel I/O: 1 x PS/2 Mouse Port, 1 x PS/2 Keyboard Port, 1 x D-Sub Port, 1 x RJ-45 LAN Port with LED, HD Audio Jack: Line in / Front Speaker / Microphone., Compatible Products - Core i3, Core i5, Core i7, Xeon, Pentium (4th Gen), Part No - Not Specified, Warranty - 3 Year, Country of Origin - Taiwan, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Asrock",
+            "model": "Asrock GA-H81M-DS2",
+            "specification": "Software: ASRock Disk Health Report, ASRock USB Key, ASRock APP Charger, ASRock XFast LAN, ASRock XFast RAM, ASRock Fast Boot, ASRock Live Update & APP Shop: ASRock Interactive UEFI, ASRock UEFI Guide, ASRock Instant Flash, ASRock Internet Flash, ASRock Crashless BIOS, ASRock UEFI Tech Service, ASRock Easy Driver Installer",
+            "port": "USB Port 2, HDMI port: No",
+            "type": "DDR3",
+            "resolution": "1600/ 1333MHz",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "Rohan",
+                "rating": 4,
+                "comment": "The video quality is clear, and the night vision feature works well in low light. "
+            },
+            {
+                "user": "Julkar Shabab",
+                "rating": 3,
+                "comment": "the durable material withstands rough conditions. The padded shoulder straps are comfortable, and the chest and waist straps add extra stability."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-21.webp",
+        "name": "Asus H81M-K DDR3 4Th Gen. Intel LGA1150 Socket Motherboard",
+        "category": "Motherboard",
+        "categorySlug": "motherboard",
+        "status": "In Stock",
+        "price": 8900.00,
+        "description": "Brand - Asus, Model - Asus H81M-K, Chipset Brand - Intel, Chipset - Intel H81, CPU Sockets - LGA1150, Supported CPU - 4th Generation Intel Core i7 / i5 / i3 / Pentium / Celeron processors, Generation - 4th, Memory Type - DDR3 DIMM, Memory MHz - 1600/1333/1066 MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Max. - 16GB, Optane Memory Support - No, Graphics - Integrated Graphics, Multi-GPU Support - No, PCI Express Slot - 1 x PCIe 2.0 x16, 2 x PCIe 2.0 x1, 1 x PCI, Storage Interface - 3Gb/s, 6Gb/s, M.2 Slot - No, LAN Chipset - Realtek RTL8111G, LAN Speed (Mbps) - 10/100/1000Mbps, Audio Chipset - Realtek ALC887-VD, Audio Channel - 8-Channel, Video Chipset - Integrated Graphics Processor, Wi-Fi - No, Bluetooth - No, USB Port - 2 x USB3.1 Gen 1, 8 x USB2.0, VGA Port - 1, DVI Port - 1, HDMI Port - No, DisplayPort (DP) - No, IDE Port - No, SATA Port - 2 x SATAII, 2 x SATAIII, BIOS Type - 1 x 64 Mbit Flash ROM, BIOS Model - AMI UEFI BIOS, BIOS Version - PnP, DMI2.0, WfM2.0, SM BIOS 2.7, ACPI 2.0a, FireWire - No, CrossFire Support - No, Sli Support - No, RaidSupport - No, Thunderbolt - No, TPM Port - Yes, COM Port - Yes, RGB Support - No, Form Factor - Micro-ATX, Supported Operating System - Windows 7 / 8, Special Features - ASUS EPU, GPU Boost, AI Suite 3, Ai Charger, Anti-Surge, ASUS Quiet Thermal Solution, ASUS EZ DIY, ASUS Q-Design, Others - 1 x TPM header, 1 x COM port(s) connector(s), 1 x CPU Fan connector(s), 1 x System panel(s), 1 x Parallel port(s), 1 x Clear CMOS jumper(s), 1 x Audio jack(s), Warranty - 3 year, Country of Origin - Taiwan, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Asus",
+            "model": "Asus H81M-K",
+            "specification": "ASUS EPU, GPU Boost, AI Suite 3, Ai Charger, Anti-Surge, ASUS Quiet Thermal Solution, ASUS EZ DIY, ASUS Q-Design.",
+            "port": "USB Port 2, HDMI port: No",
+            "type": "DDR3",
+            "resolution": "1600/ 1333MHz",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "Peoms Islam",
+                "rating": 4,
+                "comment": "The large drawing area gives ample space to work on detailed illustrations. It's compatible with various software, and the express keys are customizable for quick shortcuts. This tablet has taken my digital art to the next level!"
+            },
+            {
+                "user": "Arifuzzaman",
+                "rating": 3,
+                "comment": "The extra screen real estate allows me to have multiple windows open side-by-side, boosting productivity. The image quality is sharp and vibrant, and the refresh rate is smooth. My only wish is for a more adjustable stand to find the perfect viewing angle easily. Otherwise, it's a fantastic monitor for work and entertainment."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-22.webp",
+        "name": "AMD Ryzen 5 5600X Desktop Processor (OEM/Tray)",
+        "category": "CPU / Processor",
+        "categorySlug": "processor",
+        "status": "Out of Stock",
+        "price": 16500.00,
+        "description": "The AMD Ryzen 5 5600X is a powerful processor that is designed for gamers and professionals who demand the best in performance and efficiency. With a base clock speed of 3.7 GHz and a boost clock speed of up to 4.6 GHz, this processor delivers lightning-fast performance for gaming, video editing, and other demanding tasks. In addition to its gaming capabilities, the Ryzen 5 5600X is also an excellent choice for professionals who require high-performance computing. Whether you're a video editor, a 3D designer, or a scientist running simulations, this processor has the power and efficiency to handle your workload.",
+        "keyFeatures": {
+            "brand": "AMD",
+            "model": "AMD Ryzen 5 5600X",
+            "specification": "AMD Zen 3 Core Architecture, AMD Ryzen VR-Ready Premium, AMD StoreMI Technology, AMD Ryzen Master Utility, Get the high-speed gaming performance of the worlds best desktop processor. Ryzen 5 5600X will work with RAM up to 3600MHz.",
+            "port": "USB Port 2, HDMI port: No",
+            "type": "DDR4 3200MHz",
+            "resolution": "n/a",
+            "voltage": "65W"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "Bijoy Hasan",
+                "rating": 4,
+                "comment": "The tactile switches provide a satisfying click with each press. The build quality is solid, and the detachable wrist rest is comfortable for long typing sessions. The only reason I'm giving it four stars is that the included keycap puller feels a bit flimsy. Overall, it's a great mechanical keyboard for productivity."
+            },
+            {
+                "user": "MD Suman",
+                "rating": 3,
+                "comment": "With its powerful graphics card and high refresh rate display, gaming has never been smoother. The keyboard is responsive, and the RGB lighting adds a cool touch. It handles the latest games like a champ, and the cooling system keeps it running at optimal temperatures. It's a gaming dream come true!0"
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-23.webp",
+        "name": "Apacer 4GB DDR4 2400MHz Desktop RAM (Without Heatsink) #EL.04G2T.KFH / AU04GGB24CETBGH",
+        "category": "RAM",
+        "categorySlug": "ram",
+        "status": "Out of Stock",
+        "price": 1850.00,
+        "description": "Brand - Apacer, Model - Apacer 4GB DDR4, Capacity - 4GB, Type - DDR4, Bus Speed(MHz) - 2400MHz, Number of Pin - 288 Pin, CAS Latency - CL17, Voltage - 1.2V, Module Type - DIMM, Form Factor/PCB Height - 31.25mm/ 1.23 inch, Others - Certificate: RoHS, CE, FCC, RCM, VCCI, JEDEC, Specialty - Compatible with Intel 100 & 200 Series Platforms, Enables your computer to operate at a stable, reliable  environment. a 25% power saving. Transfer speed up to  2,133Mbps, at 17GB per second., Part No - EL.04G2T.KFH / AU04GGB24CETBGH, Warranty - Product LifeTime",
+        "keyFeatures": {
+            "brand": "Apacer",
+            "model": "Apacer 4GB DDR4",
+            "specification": "Compatible with Intel 100 & 200 Series Platforms, Enables your computer to operate at a stable, reliable environment. a 25% power saving. Transfer speed up to 2,133Mbps, at 17GB per second.",
+            "port": "n/ao",
+            "type": "DDR4",
+            "resolution": "1600/ 1333MHz",
+            "voltage": "1.20V"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "Najmul Hossain",
+                "rating": 5,
+                "comment": "The capabilities of this product are outstanding. Capturing memories has never been easier."
+            },
+            {
+                "user": "MH Rony",
+                "rating": 4,
+                "comment": "As a Star Wars fan, this product with themed designs is a dream come true!"
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-24.webp",
+        "name": "Cooler Master Elite 400W 230V V4 ATX Non-Modular Power Supply #MPE-4001-ACABN-UK / MPE-4001-ACABN-IN",
+        "category": "Power Supply Unit",
+        "categorySlug": "power-supply",
+        "status": "Out of Stock",
+        "price": 4290.00,
+        "description": "Brand - Cooler Master, Model - Cooler Master Elite 400W 230V V4, Series - Elite Series, PSU Category - Non Modular, Type - ATX 12V V2.41, Maximum Power - 400 Watt, Input Voltage - 200 - 240Vac, Input Frequency Range - 50 - 60Hz, Input Current - 4A, Fan Size - 120mm, Fan Bearing - Sleeve Bearing, Efficiency - 85% Typical Load, 80 Plus/Efficiency Rating - 80 Plus 230V EU, Protection - OVP, OPP, OTP, SCP, UVP, Over Voltage Protection (OVP) - Yes, Over Power Protection (OPP) - Yes, Over Temperature Protection (OTP) - Yes, Short Circuit Protection (SCP) - Yes, Under Voltage Protection (UVP) - Yes, ATX Main Connectors - 1, EPS Connectors - 1, PCIe Connectors - 1, SATA Power Connectors - 3, 4-Pin Peripheral Connectors - 2, PFC (Power Factor Correction) - Active PFC, Power Good Signal - 100 - 500 ms, Hold Up Time - >14ms at 100% load, Operating Temperature - 40 degree C, MTBF - >100,000 Hours, Form Factor - ATX, Dimension (W/H/D) - 150 x 86 x 140mm, Regulatory / Safety Approval - TUV, cTUVus, CE, BSMI, FCC, EAC, RCM, KCC, CCC, CB, Specialty - ENTRY LEVEL ATX POWER SUPPLY UNIT, Active PFC + Forward Topology Design, High Temperature Resistance, Peak Power Tolerance, 80 Plus EU 230V Efficiency, Durable, Reliable, And Safe, Part No - MPE-4001-ACABN-UK / MPE-4001-ACABN-IN, Warranty - 3 Year, Country of Origin - Taiwan, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Cooler Master",
+            "model": "Cooler Master Elite 400W 230V V4",
+            "specification": "ENTRY LEVEL ATX POWER SUPPLY UNIT, Active PFC + Forward Topology Design, High Temperature Resistance, Peak Power Tolerance, 80 Plus EU 230V Efficiency, Durable, Reliable, And Safe",
+            "port": "USB Port 2, HDMI port: No",
+            "type": "ATX 12V V2.41",
+            "resolution": "150 x 86 x 140mm",
+            "voltage": "400 Watt"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "PhotographyEnthusiast",
+                "rating": 5,
+                "comment": "The camera capabilities of this product are outstanding. Capturing memories has never been easier."
+            },
+            {
+                "user": "StarWarsFan42",
+                "rating": 4,
+                "comment": "As a Star Wars fan, this product with themed designs is a dream come true!"
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-25.webp",
+        "name": "Havit KB329 Black USB Mini Keyboard with Bangla",
+        "category": "Keyboard",
+        "categorySlug": "keyboard",
+        "status": "Out of Stock",
+        "price": 600.00,
+        "description": "Brand - Havit, Model - Havit KB329, Series - Regular, Style & Size - Regular Small, Type - USB Mini Keyboard, Connection Type - Wired, Interface - USB, Language (English) - Yes, Language - English & Bangla, Language (Bangla) - Yes, Lighting - No, Fingerprint Sensor - No, Mechanical (Key) - No, Mouse, Touchpad - Keyboard only, Compatibility - Windows Supported PC & Laptop, OS Support - Windows, Color - Black, Part No - KB329, Warranty - 1 Year, Country of Origin - China, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "Havit",
+            "model": "Havit KB-329",
+            "specification": "The price of Havit KB-329 Keyboard starts from 600 . The price may vary due to your customization and product availability. You can buy Havit KB-329 Keyboard from our website or visit our showrooms nearby.",
+            "port": "USB",
+            "type": "USB Mini Keyboard",
+            "resolution": "n/a",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "Sarah_89",
+                "rating": 5,
+                "comment": "he sound quality is incredible, and they fit snugly in my ears, even during workouts. The battery life is impressive, and the charging case is compact and easy to carry. I highly recommend these earbuds to anyone looking for an affordable and high-quality audio solution."
+            },
+            {
+                "user": "GadgetMaster55",
+                "rating": 4,
+                "comment": "The build quality is excellent, and the camera captures decent footage. However, I found the controls a bit challenging to master, especially for beginners. The battery life is also relatively short, limiting flying time. It's a decent option for drone enthusiasts with some experience but may not be the best choice for novices."
+            }
+        ],
+        "isFeatured": false
+    },
+    {
+        "image": "/products/product-26.webp",
+        "name": "Gigabyte GA-H81M-DS2 4th Gen Intel Motherboard",
+        "category": "Mouse",
+        "categorySlug": "mouse",
+        "status": "Out of Stock",
+        "price": 350.00,
+        "description": "Brand - A4TECH, Model - A4TECH OP-330, Series - Regular, Type - Optical Mouse, Connectivity - Wired, Interface - USB, Style & Size - Ergonomic, 2X Click - No, Click Sound - Yes, Mode - Single, Max DPI - 1200 DPI, Number of Button - 3, Scrolling Control - Wheel, Wheel - Yes, Lighting - No, Tracking Type - Optical, Cable Length - 4.9 ft., Dimensions (WxHxD) - 61 x 120 x 37mm, Compatibility - Windows Supported PC & Laptop, OS Support - Windows 7 / 8 / 8.1 / 10, Color - Black, Features - 5M Clicks Button Lifetime - Extreme quality offer over 5 million clicks guaranteed. Wider Scroll Wheel - Wider scoll wheel provides fingerfit comfort for long time use. 8-in-One - 8 gestures to perform selectable hotkey commands., Others - Ergonomic Design: Symmetric, Specialty - The A4tech optical wheel Mouse with hyper-fast scrolling for increased productivity. A nearly frictionless scroll wheel lets you fly through long documents and Web pages with a single flick. Experience smoother cursor control on virtually any surface. Contoured design give you more support and control., Warranty - 1 Year, Country of Origin - Taiwan, Made in/ Assemble - China",
+        "keyFeatures": {
+            "brand": "A4TECH",
+            "model": "A4TECH OP-330",
+            "specification": "The A4tech optical wheel Mouse with hyper-fast scrolling for increased productivity. A nearly frictionless scroll wheel lets you fly through long documents and Web pages with a single flick. Experience smoother cursor control on virtually any surface. Contoured design give you more support and control.",
+            "port": "USB Port",
+            "type": "Optical Mouse",
+            "resolution": "n/a",
+            "voltage": "n/a"
+        },
+        "individualRating": 4.3,
+        "averageRating": 4.1,
+        "reviews": [
+            {
+                "user": "Sarah_89",
+                "rating": 5,
+                "comment": "he sound quality is incredible, and they fit snugly in my ears, even during workouts. The battery life is impressive, and the charging case is compact and easy to carry. I highly recommend these earbuds to anyone looking for an affordable and high-quality audio solution."
+            },
+            {
+                "user": "GadgetMaster55",
+                "rating": 4,
+                "comment": "The build quality is excellent, and the camera captures decent footage. However, I found the controls a bit challenging to master, especially for beginners. The battery life is also relatively short, limiting flying time. It's a decent option for drone enthusiasts with some experience but may not be the best choice for novices."
+            }
+        ],
+        "isFeatured": false
+    }
+]
