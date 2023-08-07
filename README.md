@@ -1,6 +1,6 @@
 # PC Crafts
 
-Live Link [PC Crafts](https://pc-crafts.vercel.app/)
+Live Link [PC Crafts](https://pc-maker-fe.vercel.app/)
 
 ## Features
 
